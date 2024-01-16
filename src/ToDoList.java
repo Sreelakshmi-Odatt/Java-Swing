@@ -6,7 +6,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-//The TodoList class extends from the JFrame
+// TodoList class extends from the JFrame
 public class ToDoList extends JFrame {
     private DefaultListModel<String> tasksLists;
     private JList<String> tasksList;
